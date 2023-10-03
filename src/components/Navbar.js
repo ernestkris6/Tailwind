@@ -12,7 +12,7 @@ const Navbar =() => {
                     <img src={logo1} alt='logo'/>
                 </div>
 
-                <div className='hidden md:flex space-x-6'>
+                <div className='hidden space-x-6 md:flex'>
                     <a href='#' className='hover:text-darkGrayishBlue'>Pricing</a>
                     <a href='#' className='hover:text-darkGrayishBlue'>Product</a>
                     <a href='#' className='hover:text-darkGrayishBlue'>About Us</a>
@@ -22,7 +22,7 @@ const Navbar =() => {
 
                 <a
                 href='#'
-                className='hidden md:block px-6 py-3 pt-2 text-white bg-brightRed rounded-full baseline hover:bg-darkGrayishBlue'>Get Started</a>
+                className='hidden px-6 py-3 pt-2 text-white bg-brightRed rounded-full baseline hover:bg-darkGrayishBlue md:block'>Get Started</a>
 
            </div>
     </div>
