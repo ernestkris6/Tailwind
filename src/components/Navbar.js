@@ -22,7 +22,7 @@ const Navbar =() => {
 
                 <a
                 href='#'
-                className='hidden md:block px-6 py-3 text-white bg-brightRed rounded-full baseline hover:bg-darkGrayishBlue'>Get Started</a>
+                className='hidden md:block px-6 py-3 pt-2 text-white bg-brightRed rounded-full baseline hover:bg-darkGrayishBlue'>Get Started</a>
 
            </div>
     </div>
