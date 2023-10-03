@@ -1,4 +1,5 @@
 import React from 'react'
+import logo2 from '../Assets/illustration-intro.svg'
 
  const Hero = () => {
   return (
@@ -13,9 +14,19 @@ import React from 'react'
                 Manage makes it simple for software teams to plan day to day tasks
                 while keeping the larger team goals in view.
             </p>
-        </div>
-        <div>
+            
+            <div className='flex justify-center md:justify-start'>
+            <a
+                href='#'
+                className='px-6 py-3 pt-2 text-white 
+                bg-brightRed rounded-full baseline 
+                hover:bg-darkGrayishBlue md:block'>Get Started
+                </a>
 
+            </div>
+        </div>
+        <div className='md:w-1/2'>
+            <img src={logo2} alt='goals image' />
         </div>
     </div>
   )
