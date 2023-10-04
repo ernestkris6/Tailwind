@@ -12,8 +12,7 @@ import React from 'react'
         <div>
                  <a
                 href='#'
-                className='p-3 px-6 pt-2 items-center shadow-2xl
-                text-brightRed bg-white  rounded-full baseline hover:bg-gray-900 md:block '>Get Started</a>
+                class=" ml-32 p-3 px-6 pt-2 text-brightRed bg-white rounded-full shadow-2xl baseline hover:bg-gray-900 md:ml-0">Get Started</a>
         </div> 
     </div>
 
