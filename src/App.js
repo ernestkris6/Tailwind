@@ -7,6 +7,7 @@ import Cta  from './components/Cta';
 import Footer  from './Footer';
 
 
+
     const App = () => {
   return (
     <div>
@@ -15,8 +16,7 @@ import Footer  from './Footer';
           <Features />
           <Testimonials />
           <Cta />
-          <Footer />
-        
+          <Footer />       
          
     </div>
   )
