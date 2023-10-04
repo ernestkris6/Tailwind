@@ -50,7 +50,7 @@ import img5 from '../Assets/avatar-richard.png'
             </p>
         </div>
     </div>
-          
+
     </>
     
   )
