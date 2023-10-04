@@ -30,12 +30,7 @@ import img5 from '../Assets/avatar-richard.png'
                 "We have been able to cancel so many other transactions since using Manage.
                 There is no more cross-channel confusion and everyone is much more focused."
             </p>
-            <div className='my-16'>
-                 <a
-                href='#'
-                className='p-3 px-6 py-3 pt-2 items:center
-                text-white bg-brightRed rounded-full baseline hover:bg-darkGrayishBlue md:block '>Get Started</a>
-        </div> 
+            
 
         </div>
 
