@@ -12,7 +12,8 @@ import Testimonials from './components/Testimonials';
           <Hero />
           <Features />
           <Testimonials />
-          
+        
+         
     </div>
   )
 }
