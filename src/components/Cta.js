@@ -9,12 +9,8 @@ import React from 'react'
         md:max-w-xl md:text-left'>
             Simplify how your team works today
         </h2>
-        <div>
-                 <a
-                href='#'
-                class=" ml-32 p-3 px-6 pt-2 
-                text-brightRed bg-white rounded-full shadow-2xl baseline hover:bg-gray-900 md:ml-0">Get Started</a>
-        </div> 
+        <button class=" ml-32 p-3 px-6 pt-2 
+                text-brightRed bg-white rounded-full shadow-2xl baseline hover:bg-gray-900 md:ml-0">Get Started</button> 
     </div>
 
 </div>

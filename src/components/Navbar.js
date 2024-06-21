@@ -7,7 +7,7 @@ const Navbar =() => {
 
   return (
 
-    <div className='relative container mx-auto p-6 '>
+    <div className='relative header container mx-auto p-6 '>
        
             <div className='flex items-center justify-between'>
                 <div className='pt-2'>
